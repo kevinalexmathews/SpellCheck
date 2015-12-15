@@ -1,1 +1,1 @@
-# SpellCheckAssignment
+# SpellCheck
